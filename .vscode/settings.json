@@ -1,0 +1,51 @@
+{
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off",
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    }
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "dart.lineLength": 80,
+  "dart.enableSdkFormatter": true,
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "dart.debugExternalPackageLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "dart.analysisExcludedFolders": [
+    "**/node_modules/**",
+    "**/.dart_tool/**",
+    "**/build/**"
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/3.38.5",
+  "dart.previewHotReloadOnSaveWatcher": true,
+  "dart.flutterHotReloadOnSave": "manual",
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  "files.watcherExclude": {
+    "**/.fvm": true
+  },
+  "dart.showTodos": true,
+  "dart.renameFilesWithClasses": "always",
+  "files.associations": {
+    "*.dart": "dart"
+  },
+  "dart.insertArgumentPlaceholders": false,
+  "dart.enableCompletionCommitCharacters": false,
+  "dart.closingLabels": true,
+  "dart.showMainCodeLens": true,
+  "dart.showTestCodeLens": true,
+  "dart.analysisServerFolding": true
+}

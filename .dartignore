@@ -1,0 +1,18 @@
+# .dartignore
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.gr.dart
+*.config.dart
+
+# L10n generated files
+**/l10n/app_localizations*.dart
+**/generated/
+
+# Build artifacts
+**/build/
+**/.dart_tool/
+
+# Coverage
+**/coverage/
