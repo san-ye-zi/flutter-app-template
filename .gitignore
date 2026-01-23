@@ -52,3 +52,6 @@ app.*.map.json
 # Make files
 .make/
 .make-init
+
+# Localization files
+untranslated.json
